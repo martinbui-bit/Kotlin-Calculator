@@ -1,4 +1,3 @@
 # Kotlin-Calculator
 
-
-# Calculator Assignment from Mobile Application Development course
+Calculator Assignment from Mobile Application Development course
